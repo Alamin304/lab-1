@@ -1,0 +1,13 @@
+F:\8th semester\oop2\code\first lab\first lab\bin\Debug\netcoreapp3.1\first lab.exe
+F:\8th semester\oop2\code\first lab\first lab\bin\Debug\netcoreapp3.1\first lab.deps.json
+F:\8th semester\oop2\code\first lab\first lab\bin\Debug\netcoreapp3.1\first lab.runtimeconfig.json
+F:\8th semester\oop2\code\first lab\first lab\bin\Debug\netcoreapp3.1\first lab.runtimeconfig.dev.json
+F:\8th semester\oop2\code\first lab\first lab\bin\Debug\netcoreapp3.1\first lab.dll
+F:\8th semester\oop2\code\first lab\first lab\bin\Debug\netcoreapp3.1\first lab.pdb
+F:\8th semester\oop2\code\first lab\first lab\obj\Debug\netcoreapp3.1\first lab.csprojAssemblyReference.cache
+F:\8th semester\oop2\code\first lab\first lab\obj\Debug\netcoreapp3.1\first lab.AssemblyInfoInputs.cache
+F:\8th semester\oop2\code\first lab\first lab\obj\Debug\netcoreapp3.1\first lab.AssemblyInfo.cs
+F:\8th semester\oop2\code\first lab\first lab\obj\Debug\netcoreapp3.1\first lab.csproj.CoreCompileInputs.cache
+F:\8th semester\oop2\code\first lab\first lab\obj\Debug\netcoreapp3.1\first lab.dll
+F:\8th semester\oop2\code\first lab\first lab\obj\Debug\netcoreapp3.1\first lab.pdb
+F:\8th semester\oop2\code\first lab\first lab\obj\Debug\netcoreapp3.1\first lab.genruntimeconfig.cache
